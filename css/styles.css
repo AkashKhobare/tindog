@@ -1,0 +1,33 @@
+/* Title Section*/
+h1 {
+    font-size: 3.5rem;
+}
+
+.download-btn {
+    margin: 5% 0.5%;
+}
+
+.navbar {
+    margin-bottom: 2%;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.nav-item {
+    margin: 0 5%;
+}
+
+.title-img {
+    margin: 40px;
+    min-width: 200px;
+    transform: rotate(20deg);
+    width: 70%;
+}
+
+#title {
+    background-color: #d53a3a;
+    color: #fff;
+    padding: 3% 15%;
+}
